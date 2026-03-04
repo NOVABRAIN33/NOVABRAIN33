@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @NOVABRAIN33
-- 👀 I’m interested in ... CODING
-- 🌱 I’m currently learning ...HTML & CSS SO FAR
-- 💞️ I’m looking to collaborate on ...NEED MORE KNOWLEDGE
+FULL STACK DEVELOPER
 - 📫 How to reach me ...NOVABRAIN33@GMAIL.COM
 
 <!---
